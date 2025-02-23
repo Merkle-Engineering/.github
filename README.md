@@ -15,11 +15,11 @@ We specialize in **HyperLedger Fabric** and **HyperLedger Besu**, offering deep 
 
 ## Services  
  ✅ **Blockchain Solution Consulting**  
- ✅ **Blockchain Development** 
- ✅ **Smart Contract Development** 
- ✅ **Front-End Blockchain Integrations** 
- ✅ **Blockchain Data Engineering** 
- ✅ **Network and Infrastructure Setup** 
+ ✅ **Blockchain Development**  
+ ✅ **Smart Contract Development**  
+ ✅ **Front-End Blockchain Integrations**  
+ ✅ **Blockchain Data Engineering**  
+ ✅ **Network and Infrastructure Setup**  
 
 ## Get Involved  
 We are open to collaborations and partnerships! If you’re interested in blockchain development, feel free to contribute or reach out.  
